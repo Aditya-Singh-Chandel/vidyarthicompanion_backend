@@ -15,9 +15,9 @@
 
 ## 📖 Overview
 
-This is the **production-ready** variant of the VidyarthiCompanion backend, configured to connect to **MongoDB Atlas** (cloud database). The codebase is identical to [`VidyarthiCompanion-backend`](../VidyarthiCompanion-backend/README.md) — the only difference is the environment configuration with a cloud MongoDB connection string.
+This is the **production-ready** variant of the VidyarthiCompanion backend, configured to connect to **MongoDB Atlas** (cloud database). The codebase is identical to VidyarthiCompanion-backend — the only difference is the environment configuration with a cloud MongoDB connection string.
 
-> For comprehensive documentation on the project architecture, modules, API reference, shared models, and core services, refer to the **[VidyarthiCompanion-backend README](../VidyarthiCompanion-backend/README.md)**.
+> For comprehensive documentation on the project architecture, modules, API reference, shared models, and core services, refer to the **VidyarthiCompanion-backend README**.
 
 ---
 
@@ -92,9 +92,9 @@ node test-bedrock.js
 
 ## 🔗 Related
 
-- **[Root README](../README.md)** — Full project overview and architecture
-- **[VidyarthiCompanion-backend README](../VidyarthiCompanion-backend/README.md)** — Detailed backend documentation (identical codebase)
-- **[github-frontend README](../github-frontend/README.md)** — Production frontend
+- **Root README** — Full project overview and architecture
+- **VidyarthiCompanion-backend README** — Detailed backend documentation (identical codebase)
+- **github-frontend README** — Production frontend
 
 ---
 
