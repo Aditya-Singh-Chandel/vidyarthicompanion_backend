@@ -102,6 +102,6 @@ node test-bedrock.js
 
 **Part of the VidyarthiCompanion Campus OS**
 
-*Built by Team QuantYap for HackOn with Amazon 2026*
+*Built by Team QuantYap*
 
 </div>
